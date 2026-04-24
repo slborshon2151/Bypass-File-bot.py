@@ -1,0 +1,16 @@
+# Environment variables (গোপনীয় তথ্য)
+.env
+
+# ডেটা ফাইল
+*.txt
+*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+.idea/
